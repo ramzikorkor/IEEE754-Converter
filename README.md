@@ -11,8 +11,6 @@ operations: arithmetic and other operations (such as trigonometric functions) on
 exception handling: indications of exceptional conditions (such as division by zero, overflow, etc.)
 The current version, IEEE 754-2008 published in August 2008, includes nearly all of the original IEEE 754-1985 standard and the IEEE Standard for Radix-Independent Floating-Point Arithmetic (IEEE 854-1987).
 
-^^^^^Source Wikipedia^^^^^^
-
 Senior year in my degree at Boise State University, we were tasked with using IEEE 754 for class. I knew that I could just look up one of the numerous converters online, but I challenged myself to create my own. I figured if I ever needed it again I could make a libarary that would make it very simple. Here is my take on converting IEEE 754 single and double precision. 
 
 
